@@ -12,7 +12,7 @@ app.use(cors())
 const apiKey =process.env.API_KEY
 const openaiEndpoint=process.env.OPENAI_URL
 
-console.log(apiKey,openaiEndpoint)
+
 
 // Function to interact with ChatOpenAI
 
